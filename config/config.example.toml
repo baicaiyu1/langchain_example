@@ -1,0 +1,10 @@
+# DeepSeek官网拿到的配置
+[DeepSeekModel]
+deepseek_model = "Your-DeepSeek-Model"
+deepseek_base_url="Your-DeepSeek-BaseUrl"
+deepseek_api_key="Your-DeepSeek-ApiKey"
+
+[ToolsKeysModel]
+tavily_api_key="Your-tavily_api_key"
+
+
